@@ -1,0 +1,35 @@
+html,
+body{
+   font-family: 'Poppins', sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.bg-hero{
+background: linear-gradient(to right,#B4D4FF,#86B6F6,#176B87);
+height: 30px;
+}
+.bg-hero-col{
+background-color: #2E97A7;
+}
+label{
+  font-size: 20px;
+  font-weight: bold;
+}
+input{
+  padding: 4px 5px;
+  border-radius: 5px;
+  border: 1px solid white;
+  outline: none;
+}
+button{
+  padding: 10px 20px;
+  border: 1px solid #12486B;
+  background-color: #12486B;
+  color: white;
+}
+button:hover{
+  background-color: #105d91;
+
+}
