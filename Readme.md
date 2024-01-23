@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](/LICENSE) - see the LICENSE fil
 ## Acknowledgments
 - Bootstrap for providing a responsive and sleek UI.
 - OpenWeather for providing the weather data through their API.
-
+- Add your own weather icons.
